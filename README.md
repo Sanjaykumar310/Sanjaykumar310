@@ -5,7 +5,7 @@ B.Tech Artificial Intelligence And Data Science
 - 🌱 I’m currently learning java
 - 👯 I’m looking to collaborate on ML/AI
 - 📫 How to reach me :
-<br />  [<img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>](www.linkedin.com/in/s-sanjay-kumar-90a91a246)[<img width="48" height="48" src="https://img.icons8.com/fluency/48/twitterx--v1.png" alt="twitterx--v1"/>](https://twitter.com/SANJAYKUMA95794)
+<br />  [<img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/s-sanjay-kumar-90a91a246/)[<img width="48" height="48" src="https://img.icons8.com/fluency/48/twitterx--v1.png" alt="twitterx--v1"/>](https://twitter.com/SANJAYKUMA95794)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I know English.
 
