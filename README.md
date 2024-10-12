@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me s.sanjay kumar
 
 B.Tech Artificial Intelligence And Data Science
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                                 
+<img align="right" width="370" height="290" src="https://c.tenor.com/TR9fRy1H02wAAAAd/tech.gif">                                                 
 - 🌱 I’m currently learning java
 - 👯 I’m looking to collaborate on ML/AI
 - 📫 How to reach me :
