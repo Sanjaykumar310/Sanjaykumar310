@@ -25,3 +25,5 @@ B.Tech Artificial Intelligence And Data Science
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Sanjaykumar310?theme=dark&font=Preahvihear&ext=contest)]
 
 [![Sanjay kumar github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sanjaykumar310&bg_color=0f0f0f&color=e9e2e9&line=27ce51&point=eae6e6&area=true&hide_border=true)](https://github.com/Sanjaykumar310/github-readme-activity-graph)
+
+![snake gif](https://github.com/Sanjaykumar310/Sanjaykumar310/blob/output/github-snake-dark.svg)
